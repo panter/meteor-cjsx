@@ -1,4 +1,4 @@
-var coffeeReactVersion = "2.4.1";
+var coffeeReactVersion = "3.2.0";
 
 Package.describe({
   summary: "Write React Components for Meteor in Coffeescript",
